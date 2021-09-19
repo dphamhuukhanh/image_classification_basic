@@ -1,0 +1,11 @@
+jupyter
+selenium
+wget
+opencv-python
+numpy
+sklearn
+imutils
+keras 
+tensorflow 
+pillow
+matplotlib
